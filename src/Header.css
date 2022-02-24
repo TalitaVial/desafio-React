@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  display: flex;
+  width: 100%;
+}
+
+.header-icon {
+  display: flex;
+  margin: 2rem 2rem;
+  width: 100%;
+}
+
+.header-icon img {
+  padding: 1rem;
+}
+
+.header-balle {
+  display: flex;
+  margin: 0 25rem;
+  font-size: 0.6rem;
+}
+
+.header-balle h1 {
+  width: 100%;
+  text-align: center;
+  align-items: center;
+}
+
+.header-balle img {
+  width: 25%;
+}
